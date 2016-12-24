@@ -1,4 +1,4 @@
-# yottastone
+# YS-Beacon
 This project has been renamed [YS-Beacon is actively developed in a new repo](https://github.com/YS-Beacon).
 
 This repo is obsolete and will be removed in the future.
