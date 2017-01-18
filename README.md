@@ -8,4 +8,4 @@ This repo is obsolete and will be removed in the future.
 你还可以扫描下方二维码关注微信公众号「造物邦」，或访问技术博客「[创客日记](https://makerdiary.co)」
 第一时间获取最新内容。
 
-![](http://oi7hon2ix.bkt.clouddn.com/image/201612/wechat_qrcode_web.jpg)
+![](https://img.makerdiary.co/common/zaowubang_qrcode.png)
